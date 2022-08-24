@@ -33,6 +33,7 @@ switch(inputA)
     //Console.WriteLine("является выходным днём");
     //break;
 //}
+
     default:
     Console.WriteLine("Является выходным днём");
     break;
