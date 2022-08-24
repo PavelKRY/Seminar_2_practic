@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/Seminar_02_Task_01
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/Seminar_02_Task_01.deps.json
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/Seminar_02_Task_01.runtimeconfig.json
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/Seminar_02_Task_01.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/ref/Seminar_02_Task_01.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/bin/Debug/net6.0/Seminar_02_Task_01.pdb
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.AssemblyInfo.cs
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/ref/Seminar_02_Task_01.dll
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.pdb
+/home/pavel/Рабочий стол/Семинары знакомство с C#/Семинар 2/Seminar_02_Task_01/obj/Debug/net6.0/Seminar_02_Task_01.genruntimeconfig.cache
